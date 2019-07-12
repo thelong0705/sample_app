@@ -1,3 +1,17 @@
 en:
   hello: "Hello world"
   base_title: "Ruby on Rails Tutorial Sample App"
+  sign_up: "Sign up"
+  ruby_tutorial: 'The <a href="https://www.railstutorial.org/">Ruby on Rails Tutorial</a>
+                   by <a href="http://www.michaelhartl.com/">Michael Hartl</a>'
+
+  news: "News"
+  help: "Help"
+  home: "Home"
+  contact: "Contact"
+  about: "About"
+  login: "Login"
+  welcome: "Welcome to the Sample App"
+  sub_welcome: 'This is the home page for the <a href="https://www.railstutorial.org/">
+                Ruby on Rails Tutorial</a> sample application.'
+  sign_up_now: "Sign up now!"
